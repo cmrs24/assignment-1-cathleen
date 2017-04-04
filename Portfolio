@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+	<link rel="stylesheet" type="text/css" href="portfolio css style">
+
+	<head>
+		<title>Cathleen's Portfolio</title>
+	</head>
+
+	<body>
+
+
+	<h1>Cathleen's Portfolio</h1>
+		<img src="portfolio.png" id="bg" alt="cathleens-portfolio" />
+
+		<p>Welcome to my portfolio. I craft beautifully designed, cohesive websites which you can see for yourself below! </p>
+
+	<hr>
+		<h2>City Website - created March 2015</h2>
+
+			<img src="citipix.png" class="other" alt="image-of-city-website" />
+
+		<h2>Relaxr Homepage - created June 2016</h2>
+
+			<img src="relax.png" class="other" alt="image-of-relaxr-website" />
+
+		<h2>Startup Matchmaker Homepage - created January 2017</h2>
+
+		<img src="startup.png" class="other" alt="image-of-startup-website" />
+
+	<p>Interested in having a similar website of your own? Shoot me an e-mail or text for pricing or any other inquiries: Phone number: 914-XXX-XXXX | E-mail address: xxxxx@gmail.com</p>
+
+
+	</body>
+</html>
+
